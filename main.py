@@ -37,4 +37,9 @@ def main():
 
 
 if __name__ == "__main__":
+    ##answers to reflection questions 
+    #1. the already sorted listed (1,2,3,4,5) because the bubble sort doesnt need to swap anything.
+    #2. reversed list required the most work. because every element is out of the place so bubble sort has to make the most swaps to move them into the right place.
+    #3. sorting is useful because it can be faster.
+    #4.linear may be useful when the list is small
     main()
